@@ -12,6 +12,7 @@ project "Walnut"
       "src",
 
       "../vendor/imgui",
+      "../vendor/implot",
       "../vendor/glfw/include",
       "../vendor/stb_image",
 

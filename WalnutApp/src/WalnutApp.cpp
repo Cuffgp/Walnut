@@ -13,6 +13,7 @@ public:
 		ImGui::End();
 
 		ImGui::ShowDemoWindow();
+		ImPlot::ShowDemoWindow();
 	}
 };
 
